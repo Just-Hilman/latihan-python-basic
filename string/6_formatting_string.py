@@ -13,7 +13,7 @@ print(student_grade("Reed", 80))
 print(student_grade("Paige", 92))
 print(student_grade("Jesse", 85))
 
-# To print angka dibelakan koma
+# To print angka dibelakang koma
 price = 7.5
 with_tax = price * 1.09
 print("Base price ${:.2f}, with tax ${:.2f}".format(price, with_tax))
